@@ -18,7 +18,7 @@ These data are then aggregated to identify trends in school performance.
 3. Open the Jupyter Notebook `PyCitySchools.ipynb` in the "PyCitySchools" folder to run and view the analysis.
 
 ## Output
-The Python script analyzes the data and generates the following DataFrames:
+The code analyzes the data and generates the following DataFrames:
 - **District Summary** `district_summary`: A high-level overview of the district's key metrics, including total number of unique schools, total students, total budget, average math and reading scores, and passing rates.
 - **School Summary** `per_school_summary`: Summary metrics for each individual school, detailing performance and characteristics, including school name, school type, total students, total school budget, per student budget, average math and reading scores, and passing rates.
 - **Highest-Performing Schools by % Overall Passing** `top_schools`: Identifies the top 5 schools with the highest overall passing rates.
