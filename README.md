@@ -1,8 +1,10 @@
 # pandas-challenge
-**Objective**: To create and manipulate Pandas DataFrames to analyze school and district-wide standardized test results. 
-The datasets in the "Resources" folder includes:
-- `students_complete.csv`: Each student's gender, grade, school, reading scores, and math scores.
+**Objective**: Create and manipulate Pandas DataFrames to analyze school and district-wide standardized test results. 
+
+The datasets in the "Resources" folder are:
+- `students_complete.csv`: Each student's gender, grade, school, reading, and math scores.
 - `schools_complete.csv`: School name, type, size, and budget.
+
 These data are then aggregated to identify trends in school performance.
 
 ## Prerequisites
