@@ -15,7 +15,7 @@ These data are then aggregated to identify trends in school performance.
 ## Setup and Usage
 1. Clone the `pandas-challenge` repository to your local computer.
 2. Navigate to the cloned directory in Visual Studio Code
-3. Open the Jupyter Notebook `PyCitySchools.ipynb` in the `PyCitySchools` folder to run and view the analysis.
+3. Open the Jupyter Notebook `PyCitySchools.ipynb` in the "PyCitySchools" folder to run and view the analysis.
 
 ## Output
 The Python script analyzes the data and generates the following DataFrames:
